@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(231, 231, 231);
+}
+
+.automation-solution {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(/ecology-concept-woman-hand-holding-planet-earth-globe-water-drop-green-natural-background-ecology-concept-woman-hand-155367838.jpg);
+    height: 200px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: purple;
+    text-shadow: 2px 2px 1px rgb(183, 0, 255);
+}
+
+h1 {
+    padding-top: 110px;
+}
+
+.navbar-first {
+    padding-bottom: 0rem !important;
+}
+
+.navbar-form {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.right-button {
+    margin-left: 40rem;
+}
+
+.top-left-corner-button {
+    position: absolute;
+    right: 1px;
+    top: -50px;
+}
+
+@media (max-width: 55px) {
+    .form-inline-display {
+        display: none;
+    }
+}
